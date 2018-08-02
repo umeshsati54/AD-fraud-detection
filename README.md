@@ -2,6 +2,8 @@
 
 Objective is to predict whether a user will download an app after clicking a mobile app advertisement.
 
+Download data from https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
+
 # File descriptions
 1. train.csv - the training set
 2. train_sample.csv - 100,000 randomly-selected rows of training data, to inspect data before downloading full set
