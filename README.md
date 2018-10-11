@@ -1,6 +1,6 @@
 # AD-fraud-detection
 
-Objective is to predict whether a user will download an app after clicking a mobile app advertisement.
+Objective is to predict whether a user will download an app after clicking a mobile app advertisement
 
 Download data from https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
